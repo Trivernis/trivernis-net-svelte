@@ -73,6 +73,9 @@
 		display: flex;
 		flex-direction: column;
 		margin: 5% 15% 5em;
+		background: rgba(14,1,20,0.9);
+		box-shadow:  0px 0px 60px 60px rgba(14,1,20,0.9);
+		border-radius: 50px;
 	}
 
 	.item {
