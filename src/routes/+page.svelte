@@ -8,7 +8,7 @@
 		<HomeIcons />
 	</div>
 	<div class="item home-greeting">
-		<h1>Welcome to my space in the internet</h1>
+		<h1>Welcome to my internet space</h1>
 	</div>
 	<div class="item home-description">
 		<p>
