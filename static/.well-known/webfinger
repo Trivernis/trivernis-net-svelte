@@ -1,0 +1,20 @@
+{
+    "subject":"acct:trivernis@social.funkyfish.cool",
+    "aliases":
+    [
+        "https://social.funkyfish.cool/@trivernis"
+    ],
+    "links":
+    [
+        {
+            "rel":"self",
+            "type":"application/activity+json",
+            "href":"https://social.funkyfish.cool/@trivernis"
+        },
+        {
+            "rel":"http://webfinger.net/rel/profile-page",
+            "type":"text/html",
+            "href":"https://social.funkyfish.cool/@trivernis"
+        }
+    ]
+}
